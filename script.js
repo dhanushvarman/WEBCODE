@@ -20,7 +20,7 @@ button.addEventListener("click",book)
 
 var card=document.createElement("div");
 card.setAttribute("id","display");
-card.style.marginLeft="530px";
+card.style.marginLeft="500px";
 card.style.marginTop="60px";
 
 
